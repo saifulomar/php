@@ -1,8 +1,8 @@
 <?php
-//$conn = mysql_connect("127.3.9.130", "adminiWrVJlR", "7WPcJIjiiwGd");
+//$conn = mysql_connect("127.3.9.130", "adminlgPK6SF", "QZxHqI2g1ELm");
 //mysql_select_db('itb_notification', $conn);
 
-$conn = mysql_connect("127.5.123.130", "admin1qC8LT2", "fkV2843jer3d");
+$conn = mysql_connect("127.6.74.2", "adminlgPK6SF", "QZxHqI2g1ELm");
 mysql_select_db('tuts_rest', $conn);
 
 if (!$conn) {
