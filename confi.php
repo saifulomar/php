@@ -8,6 +8,6 @@ mysql_select_db('tuts_rest', $conn);
 if (!$conn) {
     die('Could not connect: ' . mysql_error());
 }
-printf(“Hi, MySQL server version: %s\n", mysql_get_server_info());
+printf(“Hi 1, MySQL server version: %s\n", mysql_get_server_info());
 
 ?>
